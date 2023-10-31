@@ -1,0 +1,7 @@
+Folium version: 0.14.0
+Numpy version: 1.23.5
+Pandas version: 1.5.3
+Geopandas version: 0.13.2
+Matplotlib version: 3.7.1
+Seaborn version: 0.11.2
+Scikit-Learn version: 1.3.1
