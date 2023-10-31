@@ -9,7 +9,7 @@ This repository contains the following files
      
   4. The datasets provided
      
-       a) Train.csv-contain train features
+       a) Train.csv-contain train features (this file is big cannot upload here-- download from data section of page url provided below)
      
        b) Test.csv-we are supposed to predict the aqi values for the 160 location in the city of milan
      
